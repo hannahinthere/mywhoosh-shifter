@@ -19,6 +19,8 @@ It speaks [OpenBikeControl](https://github.com/OpenBikeControl/openbikecontrol-p
 
 Tested with MyWhoosh 5.7.0 on iPad.
 
+**Compatibility:** any trainer that works with MyShift in MyWhoosh — the app only talks to MyWhoosh, never to the trainer. The numbers below were measured on a Magene GEOID VE300; the −2% down-shift floor may differ on other trainers.
+
 ## MyWhoosh settings
 
 Turn **MyShift** on. Then in **Settings → Equipment**:
@@ -84,6 +86,8 @@ MIT
 4. 连上后顶部状态变绿，显示 MyWhoosh 版本号。
 
 在 iPad 上的 MyWhoosh 5.7.0 测试过。
+
+**兼容性：** 任何能在 MyWhoosh 里用 MyShift 的骑行台都行，app 只跟 MyWhoosh 通信。下面的数据是在迈金 GEOID VE300 上测的，-2% 的减档下限换了骑行台可能不同。
 
 ### MyWhoosh 设置
 
