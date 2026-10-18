@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyWhoosh Shifter</string>
+    <string name="shift_up">加档</string>
+    <string name="shift_down">减档</string>
+    <string name="advertising">正在广播…</string>
+    <string name="waiting">等 MyWhoosh 连上来</string>
+    <string name="connected">已连接</string>
+    <string name="volume_hint">音量键也能换档</string>
+</resources>

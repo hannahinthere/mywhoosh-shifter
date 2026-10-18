@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 108dp 画布、安全区是中间 66dp：上箭头暖白（加档），下箭头压暗一档（减档），和 app 里两颗按钮同一个画法 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:pathData="M40,49 L54,36 L68,49" android:strokeColor="#F1D9A8" android:strokeWidth="5.5"
+        android:strokeLineCap="round" android:strokeLineJoin="round" android:fillColor="#00000000" />
+    <path android:pathData="M40,59 L54,72 L68,59" android:strokeColor="#8E877C" android:strokeWidth="5.5"
+        android:strokeLineCap="round" android:strokeLineJoin="round" android:fillColor="#00000000" />
+</vector>

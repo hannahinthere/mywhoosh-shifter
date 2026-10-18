@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyWhoosh Shifter</string>
+    <string name="shift_up">SHIFT UP</string>
+    <string name="shift_down">SHIFT DOWN</string>
+    <string name="advertising">Advertising…</string>
+    <string name="waiting">Waiting for MyWhoosh</string>
+    <string name="connected">Connected</string>
+    <string name="volume_hint">Volume keys shift too</string>
+</resources>
